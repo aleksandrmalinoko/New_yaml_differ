@@ -1,0 +1,2 @@
+PyYAML~=6.0
+dictdiffer~=0.9.0
